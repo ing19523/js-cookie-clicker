@@ -316,5 +316,5 @@ var CookieAutoclicker = (function() {
     return CookieAutoclicker;
 })()
 
-var autoclicker = new CookieAutoclicker;
+ autoclicker = CookieAutoclicker;
 autoclicker.Run();
